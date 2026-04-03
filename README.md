@@ -1,2 +1,2 @@
-# Python-mini-projectss
-All Python Mini projects
+# Python-Mini -project
+All Python Mini Make Calendar in Python
